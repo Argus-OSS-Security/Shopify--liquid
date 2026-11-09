@@ -1,5 +1,6 @@
 name: Liquid
-on: [push]
+# Triggers intentionally disabled for Argus-OSS-Security.
+# on: [push]
 
 env:
   BUNDLE_JOBS: 4
